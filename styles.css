@@ -18,6 +18,7 @@ body {
     rgb(195, 255, 232),
     rgb(31, 181, 240)
   );
+  background-repeat: no-repeat;
 }
 
 #main-heading {
