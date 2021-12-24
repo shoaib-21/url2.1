@@ -37,7 +37,7 @@ body {
 main {
   margin: auto;
   width: 340px;
-  height: 365px;
+  height: 355px;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
