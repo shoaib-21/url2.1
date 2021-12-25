@@ -91,7 +91,7 @@ header {
   background-color: rgb(205, 162, 246);
   border-style: solid;
   border-color: rgb(149, 83, 255);
-  border-radius: 0;
+  border-radius: 5px;
   color: black;
   font-size: 1rem;
 }
